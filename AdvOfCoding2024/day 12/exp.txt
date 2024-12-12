@@ -1,0 +1,157 @@
+A region of R at x:0 at y: 0 plants with price 12 * 18 = 216
+RRRR       
+RRRR       
+  RRR      
+  R        
+           
+           
+           
+           
+           
+          
+
+
+A region of I at x:4 at y: 0 plants with price 4 * 8 = 32
+    II     
+    II     
+           
+           
+           
+           
+           
+           
+           
+          
+
+
+A region of C at x:6 at y: 0 plants with price 14 * 28 = 392
+      CC   
+      CCC  
+     CC    
+   CCC     
+    C      
+    CC     
+     C     
+           
+           
+          
+
+
+A region of F at x:8 at y: 0 plants with price 10 * 18 = 180
+        FF 
+         F 
+       FFF 
+       FFF 
+        F  
+           
+           
+           
+           
+          
+
+
+A region of  at x:10 at y: 0 plants with price 9 * 20 = 180
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+
+A region of V at x:0 at y: 2 plants with price 13 * 20 = 260
+           
+           
+VV         
+VV         
+VVVV       
+VV V       
+VV         
+           
+           
+          
+
+
+A region of J at x:6 at y: 3 plants with price 11 * 20 = 220
+           
+           
+           
+      J    
+     JJ    
+      JJ   
+      JJ   
+      JJ   
+      J    
+      J   
+
+
+A region of C at x:7 at y: 4 plants with price 1 * 4 = 4
+           
+           
+           
+           
+       C   
+           
+           
+           
+           
+          
+
+
+A region of E at x:9 at y: 4 plants with price 13 * 18 = 234
+           
+           
+           
+           
+         E 
+        EE 
+        EE 
+        EE 
+       EEE 
+       EEE
+
+
+A region of I at x:2 at y: 5 plants with price 14 * 22 = 308
+           
+           
+           
+           
+           
+  I        
+  III      
+ IIIII     
+ III I     
+   I      
+
+
+A region of M at x:0 at y: 7 plants with price 5 * 12 = 60
+           
+           
+           
+           
+           
+           
+           
+M          
+M          
+MMM       
+
+
+A region of S at x:4 at y: 8 plants with price 3 * 8 = 24
+           
+           
+           
+           
+           
+           
+           
+           
+    S      
+    SS    
+
+
+dis 2110
