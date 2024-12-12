@@ -139,55 +139,114 @@ int adv(vector<vector<char>> grid){
 }
 
 
-int findPerimeter2(char cur, pair<int, int> pos, vector<vector<char>> grid, map<pair<int, int>,bool>& visited){
-    // needs to count how many corrners are there
+int findCorners(char cur, pair<int, int> pos, vector<vector<char>> grid, map<pair<int, int>,bool>& visited){
     if(grid[pos.first][pos.second] != cur){
-        return 1;
+        visited[pos] = false;
+        return 0;
     }
-    
 
     int sum = 0;
+
     pair<int, int> up = make_pair(pos.first - 1, pos.second);
     pair<int, int> down = make_pair(pos.first + 1, pos.second);
     pair<int, int> left = make_pair(pos.first, pos.second - 1);
     pair<int, int> right = make_pair(pos.first, pos.second + 1);
 
-    if(visited[up] == false){
-        if(up.first >= 0 && up.first < grid.size() && up.second >= 0 && up.second < grid[0].size()){ 
-            visited[pos] = true;
-            sum += findPerimeter2(cur, up, grid, visited);
-        }
-        else{
-            visited[pos] = true;
+    pair<int, int> upLeft = make_pair(pos.first - 1, pos.second - 1);
+    pair<int, int> upRight = make_pair(pos.first - 1, pos.second + 1);
+    pair<int, int> downLeft = make_pair(pos.first + 1, pos.second - 1);
+    pair<int, int> downRight = make_pair(pos.first + 1, pos.second + 1);
+
+    // check 3x3 square around cur pos to find corners
+
+    vector<vector<char>> corners = {
+        {'@', '@', '@'}, 
+        {'@', '#', '@'}, 
+        {'@', '@', '@'}
+    };
+    
+    if(up.first >= 0 && up.first < grid.size() && up.second >= 0 && up.second < grid[0].size() && grid[up.first][up.second] == cur){
+        corners[0][1] = '#';
+    }
+    if(down.first >= 0 && down.first < grid.size() && down.second >= 0 && down.second < grid[0].size() && grid[down.first][down.second] == cur){
+        corners[2][1] = '#';
+    }
+    if(left.first >= 0 && left.first < grid.size() && left.second >= 0 && left.second < grid[0].size() && grid[left.first][left.second] == cur){
+        corners[1][0] = '#';
+    }
+    if(right.first >= 0 && right.first < grid.size() && right.second >= 0 && right.second < grid[0].size() && grid[right.first][right.second] == cur){
+        corners[1][2] = '#';
+    }
+    if(upLeft.first >= 0 && upLeft.first < grid.size() && upLeft.second >= 0 && upLeft.second < grid[0].size() && grid[upLeft.first][upLeft.second] == cur){
+        corners[0][0] = '#';
+    }
+    if(upRight.first >= 0 && upRight.first < grid.size() && upRight.second >= 0 && upRight.second < grid[0].size() && grid[upRight.first][upRight.second] == cur){
+        corners[0][2] = '#';
+    }
+    if(downLeft.first >= 0 && downLeft.first < grid.size() && downLeft.second >= 0 && downLeft.second < grid[0].size() && grid[downLeft.first][downLeft.second] == cur){
+        corners[2][0] = '#';
+    }
+    if(downRight.first >= 0 && downRight.first < grid.size() && downRight.second >= 0 && downRight.second < grid[0].size() && grid[downRight.first][downRight.second] == cur){
+        corners[2][2] = '#';
+    }
+    // @ means void, # means valid
+
+    vector<bool> cornerVisited = {true, true, true, true};
+
+    if(corners[0][1] == '#'){
+        cornerVisited[0] = !cornerVisited[0];
+        cornerVisited[1] = !cornerVisited[1];
+    }
+    if(corners[2][1] == '#'){
+        cornerVisited[2] = !cornerVisited[2];
+        cornerVisited[3] = !cornerVisited[3];
+    }
+    if(corners[1][0] == '#'){
+        cornerVisited[0] = !cornerVisited[0];
+        cornerVisited[2] = !cornerVisited[2];
+    }
+    if(corners[1][2] == '#'){
+        cornerVisited[1] = !cornerVisited[1];
+        cornerVisited[3] = !cornerVisited[3];
+    }
+
+    if(corners[0][0] == '#'){
+        cornerVisited[0] = false;
+    }
+    if(corners[0][2] == '#'){
+        cornerVisited[1] = false;
+    }
+    if(corners[2][0] == '#'){
+        cornerVisited[2] = false;
+    }
+    if(corners[2][2] == '#'){
+        cornerVisited[3] = false;
+    }
+
+
+
+
+    for(int i = 0; i < cornerVisited.size(); i++){
+        if(cornerVisited[i] == false){
             sum += 1;
         }
     }
-    if(visited[down] == false){
-        if(down.first >= 0 && down.first < grid.size() && down.second >= 0 && down.second < grid[0].size()){ 
-            visited[pos] = true;
-            sum += findPerimeter2(cur, down, grid, visited);
-        }
-        else{
-            sum += 1;
-        }
+
+    if(visited[up] == false && up.first >= 0 && up.first < grid.size() && up.second >= 0 && up.second < grid[0].size()){ 
+        visited[up] = true;
+        sum += findArea(cur, up, grid, visited);
     }
-    if(visited[left] == false){
-        if(left.first >= 0 && left.first < grid.size() && left.second >= 0 && left.second < grid[0].size()){ 
-            visited[pos] = true;
-            sum += findPerimeter2(cur, left, grid, visited);
-        }
-        else{
-            sum += 1;
-        }
+    if(visited[down] == false && down.first >= 0 && down.first < grid.size() && down.second >= 0 && down.second < grid[0].size()){ 
+        visited[down] = true;
+        sum += findArea(cur, down, grid, visited);
     }
-    if(visited[right] == false){
-        if(right.first >= 0 && right.first < grid.size() && right.second >= 0 && right.second < grid[0].size()){ 
-            visited[pos] = true;
-            sum += findPerimeter2(cur, right, grid, visited);
-        }
-        else{
-            sum += 1;
-        }
+    if(visited[left] == false && left.first >= 0 && left.first < grid.size() && left.second >= 0 && left.second < grid[0].size()){ 
+        visited[left] = true;
+        sum += findArea(cur, left, grid, visited);
+    }
+    if(visited[right] == false && right.first >= 0 && right.first < grid.size() && right.second >= 0 && right.second < grid[0].size()){ 
+        visited[right] = true;
+        sum += findArea(cur, right, grid, visited);
     }
 
     return sum;
@@ -204,7 +263,7 @@ int adv2(vector<vector<char>> grid){
             if(visited[pos] == false){ // if it's not visited and not a space
                 visited[pos] = true;
                 map<pair<int, int>, bool> perimeterVisited;
-                int perimeter = findPerimeter2(grid[i][j], pos, grid, perimeterVisited);
+                int perimeter = findCorners(grid[i][j], pos, grid, perimeterVisited);
                 int area = findArea(grid[i][j], pos, grid, visited);
 
 
@@ -213,25 +272,25 @@ int adv2(vector<vector<char>> grid){
                 totalCost += cost;
 
                 //prints out current grid
-                for(int row = 0; row < grid.size(); row++){
-                    for(int col = 0; col < grid[row].size(); col++){
-                        pair<int,int> posC = make_pair(row, col);
-                        if(visited[posC] == true){
-                            char c = grid[row][col];
-                            if(c == grid[i][j]){
-                                cout << c;
-                            }
-                            else{
-                                cout << (char)tolower(c);
-                            }
-                        }
-                        else{
-                            cout << " ";
-                        }
-                    }
-                    cout << endl;
-                }
-                cout << endl << endl;
+                // for(int row = 0; row < grid.size(); row++){
+                //     for(int col = 0; col < grid[row].size(); col++){
+                //         pair<int,int> posC = make_pair(row, col);
+                //         if(visited[posC] == true){
+                //             char c = grid[row][col];
+                //             if(c == grid[i][j]){
+                //                 cout << c;
+                //             }
+                //             else{
+                //                 cout << (char)tolower(c);
+                //             }
+                //         }
+                //         else{
+                //             cout << " ";
+                //         }
+                //     }
+                //     cout << endl;
+                // }
+                //cout << endl << endl;
             } 
         }
     }
