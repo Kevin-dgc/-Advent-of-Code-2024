@@ -9,6 +9,17 @@
 #include <utility>
 #include <cctype>
 #include <sstream> 
+#include <queue>
+#include <set>
+#include <unordered_set>
+#include <unordered_map>
+#include <stack>
+#include <numeric>
+#include <functional>
+#include <cmath>
+#include <bitset>
+#include <random>
+#include <chrono>
 using namespace std;
 
 int findArea(char cur, pair<int, int> pos, vector<vector<char>> grid ,map<pair<int, int>,bool>& visited){
@@ -191,7 +202,20 @@ int findCorners(char cur, pair<int, int> pos, vector<vector<char>> grid, map<pai
     }
     // @ means void, # means valid
 
+    /*
+    @ @ @
+    @ # @
+    @ @ @
+    */
+
     vector<bool> cornerVisited = {true, true, true, true};
+
+    // all diagonals are corners unless they have exactly 1 other block next to them
+    /*
+    @#@                  -#- 
+    @#@ -> 2 corners, -> @#@ -> the '-' where corners but becasue they are directly next to a block they are not corners
+    @@@                  X@X
+    */
 
     if(corners[0][1] == '#'){
         cornerVisited[0] = !cornerVisited[0];
@@ -223,30 +247,58 @@ int findCorners(char cur, pair<int, int> pos, vector<vector<char>> grid, map<pai
         cornerVisited[3] = false;
     }
 
+    if(corners[0][1] == '@' && corners[1][0] == '@'){
+        cornerVisited[0] = true;
+    }
+    if(corners[0][1] == '@' && corners[1][2] == '@'){
+        cornerVisited[1] = true;
+    }
+    if(corners[2][1] == '@' && corners[1][0] == '@'){
+        cornerVisited[2] = true;
+    }
+    if(corners[2][1] == '@' && corners[1][2] == '@'){
+        cornerVisited[3] = true;
+    }
+
+
+
+
+    
+    // for(int i = 0; i < corners.size(); i++){
+    //     for(int j = 0; j < corners[i].size(); j++){
+    //         cout << corners[i][j];
+    //     }
+    //     cout << endl;
+    // }
+
 
 
 
     for(int i = 0; i < cornerVisited.size(); i++){
-        if(cornerVisited[i] == false){
+        //cout << cornerVisited[i] << " ";
+        if(cornerVisited[i]){
             sum += 1;
         }
     }
+    //cout << endl;
 
+    visited[pos] = true;
+    // contines to all of the next inbound squares which are of same char
     if(visited[up] == false && up.first >= 0 && up.first < grid.size() && up.second >= 0 && up.second < grid[0].size()){ 
         visited[up] = true;
-        sum += findArea(cur, up, grid, visited);
+        sum += findCorners(cur, up, grid, visited);
     }
     if(visited[down] == false && down.first >= 0 && down.first < grid.size() && down.second >= 0 && down.second < grid[0].size()){ 
         visited[down] = true;
-        sum += findArea(cur, down, grid, visited);
+        sum += findCorners(cur, down, grid, visited);
     }
     if(visited[left] == false && left.first >= 0 && left.first < grid.size() && left.second >= 0 && left.second < grid[0].size()){ 
         visited[left] = true;
-        sum += findArea(cur, left, grid, visited);
+        sum += findCorners(cur, left, grid, visited);
     }
     if(visited[right] == false && right.first >= 0 && right.first < grid.size() && right.second >= 0 && right.second < grid[0].size()){ 
         visited[right] = true;
-        sum += findArea(cur, right, grid, visited);
+        sum += findCorners(cur, right, grid, visited);
     }
 
     return sum;
@@ -265,7 +317,10 @@ int adv2(vector<vector<char>> grid){
                 map<pair<int, int>, bool> perimeterVisited;
                 int perimeter = findCorners(grid[i][j], pos, grid, perimeterVisited);
                 int area = findArea(grid[i][j], pos, grid, visited);
-
+        
+                if(!isalpha(grid[i][j])){
+                    continue;
+                }
 
                 int cost = (area * perimeter);
                 cout << "A region of " << grid[i][j] << " at x:" << j << " at y: " << i << " plants with price " << area << " * " << perimeter << " = " << cost << endl;
@@ -290,7 +345,7 @@ int adv2(vector<vector<char>> grid){
                 //     }
                 //     cout << endl;
                 // }
-                //cout << endl << endl;
+                // cout << endl << endl;
             } 
         }
     }
@@ -304,8 +359,9 @@ int adv2(vector<vector<char>> grid){
 
 
 int main(){
-    //ifstream file("data.txt");
-    ifstream file("test.txt");
+    ifstream file("data.txt");
+    //ifstream file("test.txt");
+    //ifstream file("test2.txt");
     if(!file.is_open()){
         cout << "FUCK an ERROR opening file" << endl;
         return -1;
@@ -333,9 +389,7 @@ int main(){
     // }
     // cout << endl;
 
-
-
-    int dis = adv2(grid);
-    cout << "dis " << dis << endl;
+    int Answer = adv2(grid);
+    cout << "Answer " << Answer << endl;
     return 1;
 }

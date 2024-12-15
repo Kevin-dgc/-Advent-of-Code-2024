@@ -1,0 +1,1706 @@
+6496 ?= 6496 | 3076 ?= 3076
+A: 13 B: 69
+
+Token: 108
+
+New Block
+A: 154.917 B: -20.1101
+Testing A: 54 14 B: 14 44 T: 8084 1284
+Token: 0
+
+New Block
+5535 ?= 5535 | 3966 ?= 3966
+A: 25 B: 57
+
+Token: 132
+
+New Block
+A: -142.598 B: 365.004
+Testing A: 17 42 B: 40 25 T: 12176 3136
+Token: 0
+
+New Block
+A: 76 B: 4
+Testing A: 87 31 B: 15 36 T: 6672 2500
+Token: 0
+
+New Block
+A: -85.6624 B: 310.909
+Testing A: 59 27 B: 21 56 T: 1475 15098
+Token: 0
+
+New Block
+A: 44 B: 63
+Testing A: 39 51 B: 98 14 T: 7890 3126
+Token: 0
+
+New Block
+A: -15.4964 B: 482.669
+Testing A: 23 37 B: 35 14 T: 16537 6184
+Token: 0
+
+New Block
+A: 97 B: 5
+Testing A: 21 89 B: 74 23 T: 2407 8748
+Token: 0
+
+New Block
+A: 226.435 B: 210.044
+Testing A: 47 17 B: 35 59 T: 17994 16242
+Token: 0
+
+New Block
+A: -45.7769 B: 373.248
+Testing A: 14 45 B: 52 16 T: 18768 3912
+Token: 0
+
+New Block
+A: 91 B: 6
+Testing A: 29 45 B: 85 11 T: 3149 4161
+Token: 0
+
+New Block
+5489 ?= 5489 | 2110 ?= 2110
+A: 14 B: 65
+
+Token: 107
+
+New Block
+4802 ?= 4802 | 2280 ?= 2280
+A: 23 B: 43
+
+Token: 112
+
+New Block
+A: 25 B: 41
+Testing A: 27 59 B: 47 15 T: 2602 2090
+Token: 0
+
+New Block
+8830 ?= 8830 | 6134 ?= 6134
+A: 36 B: 79
+
+Token: 187
+
+New Block
+8405 ?= 8405 | 3957 ?= 3957
+A: 41 B: 91
+
+Token: 214
+
+New Block
+894 ?= 894 | 1708 ?= 1708
+A: 5 B: 26
+
+Token: 41
+
+New Block
+A: -49.9818 B: 378.307
+Testing A: 26 14 B: 18 35 T: 5510 12541
+Token: 0
+
+New Block
+A: 5 B: 5
+Testing A: 65 55 B: 21 69 T: 430 620
+Token: 0
+
+New Block
+A: 19.6697 B: 223.953
+Testing A: 11 62 B: 50 11 T: 11414 3683
+Token: 0
+
+New Block
+7683 ?= 7683 | 5642 ?= 5642
+A: 78 B: 65
+
+Token: 299
+
+New Block
+5580 ?= 5580 | 10155 ?= 10155
+A: 84 B: 75
+
+Token: 327
+
+New Block
+A: 452.234 B: 137.939
+Testing A: 37 13 B: 11 66 T: 18250 14983
+Token: 0
+
+New Block
+A: 233.344 B: 144.282
+Testing A: 54 28 B: 37 58 T: 17939 14902
+Token: 0
+
+New Block
+A: 41 B: 18
+Testing A: 87 65 B: 11 79 T: 3765 4087
+Token: 0
+
+New Block
+A: 115.324 B: 82.7504
+Testing A: 74 30 B: 16 59 T: 9858 8342
+Token: 0
+
+New Block
+A: 197.684 B: 7.96249
+Testing A: 74 31 B: 17 59 T: 14764 6598
+Token: 0
+
+New Block
+945 ?= 945 | 3324 ?= 3324
+A: 27 B: 23
+
+Token: 104
+
+New Block
+A: 74.1398 B: 167.355
+Testing A: 21 36 B: 34 14 T: 7247 5012
+Token: 0
+
+New Block
+9150 ?= 9150 | 5973 ?= 5973
+A: 65 B: 67
+
+Token: 262
+
+New Block
+7090 ?= 7090 | 6422 ?= 6422
+A: 52 B: 46
+
+Token: 202
+
+New Block
+A: -26.2637 B: 263.403
+Testing A: 28 70 B: 68 21 T: 17176 3693
+Token: 0
+
+New Block
+A: 17 B: 49
+Testing A: 33 16 B: 27 51 T: 1884 2771
+Token: 0
+
+New Block
+A: 219.355 B: 33.3548
+Testing A: 11 43 B: 51 19 T: 4114 10066
+Token: 0
+
+New Block
+A: 89 B: 14
+Testing A: 26 70 B: 87 46 T: 3532 6874
+Token: 0
+
+New Block
+A: 510.433 B: -97.9349
+Testing A: 22 35 B: 38 13 T: 7508 16592
+Token: 0
+
+New Block
+A: 65.7164 B: 206.174
+Testing A: 33 16 B: 48 72 T: 12065 15896
+Token: 0
+
+New Block
+A: 24.3673 B: 175.742
+Testing A: 67 25 B: 14 55 T: 4093 10275
+Token: 0
+
+New Block
+A: 82 B: 7
+Testing A: 36 17 B: 43 77 T: 3253 1933
+Token: 0
+
+New Block
+8862 ?= 8862 | 4869 ?= 4869
+A: 85 B: 41
+
+Token: 296
+
+New Block
+A: 74 B: 30
+Testing A: 70 16 B: 17 68 T: 5690 3224
+Token: 0
+
+New Block
+1890 ?= 1890 | 1595 ?= 1595
+A: 25 B: 10
+
+Token: 85
+
+New Block
+A: 148.932 B: 188.703
+Testing A: 64 30 B: 29 57 T: 15004 15224
+Token: 0
+
+New Block
+A: 32 B: 96
+Testing A: 13 90 B: 64 33 T: 6560 6048
+Token: 0
+
+New Block
+A: 70 B: 41
+Testing A: 37 91 B: 64 49 T: 5214 8379
+Token: 0
+
+New Block
+6684 ?= 6684 | 8460 ?= 8460
+A: 82 B: 76
+
+Token: 322
+
+New Block
+A: 301.618 B: -61.2581
+Testing A: 27 53 B: 53 30 T: 4897 14148
+Token: 0
+
+New Block
+A: 72.7979 B: -4.27467
+Testing A: 41 11 B: 39 72 T: 2818 493
+Token: 0
+
+New Block
+A: 64.1429 B: 303.531
+Testing A: 74 45 B: 14 35 T: 8996 13510
+Token: 0
+
+New Block
+A: 83.9129 B: 201.744
+Testing A: 11 36 B: 86 58 T: 18273 14722
+Token: 0
+
+New Block
+2530 ?= 2530 | 3390 ?= 3390
+A: 20 B: 50
+
+Token: 110
+
+New Block
+A: 38 B: 71
+Testing A: 55 17 B: 22 80 T: 3652 6326
+Token: 0
+
+New Block
+5480 ?= 5480 | 1976 ?= 1976
+A: 56 B: 64
+
+Token: 232
+
+New Block
+3222 ?= 3222 | 4827 ?= 4827
+A: 39 B: 90
+
+Token: 207
+
+New Block
+2212 ?= 2212 | 3932 ?= 3932
+A: 59 B: 42
+
+Token: 219
+
+New Block
+4187 ?= 4187 | 2450 ?= 2450
+A: 97 B: 39
+
+Token: 330
+
+New Block
+2220 ?= 2220 | 1810 ?= 1810
+A: 18 B: 22
+
+Token: 76
+
+New Block
+A: 59 B: 19
+Testing A: 53 19 B: 73 91 T: 4514 2850
+Token: 0
+
+New Block
+A: 112.861 B: 59.9799
+Testing A: 21 54 B: 54 25 T: 5609 7594
+Token: 0
+
+New Block
+A: 152.263 B: 185.263
+Testing A: 79 15 B: 16 80 T: 14993 17105
+Token: 0
+
+New Block
+A: -71.9565 B: 350.261
+Testing A: 20 59 B: 35 17 T: 10820 1709
+Token: 0
+
+New Block
+10752 ?= 10752 | 4564 ?= 4564
+A: 98 B: 56
+
+Token: 350
+
+New Block
+9852 ?= 9852 | 7180 ?= 7180
+A: 78 B: 70
+
+Token: 304
+
+New Block
+A: 14 B: 62
+Testing A: 65 51 B: 20 84 T: 2150 5922
+Token: 0
+
+New Block
+A: -66.3488 B: 280.884
+Testing A: 65 11 B: 20 53 T: 1305 14157
+Token: 0
+
+New Block
+A: -196.478 B: 876.643
+Testing A: 51 22 B: 13 21 T: 1376 14087
+Token: 0
+
+New Block
+2748 ?= 2748 | 5398 ?= 5398
+A: 23 B: 70
+
+Token: 139
+
+New Block
+A: 82 B: 96
+Testing A: 53 28 B: 60 99 T: 10106 11800
+Token: 0
+
+New Block
+A: 51.0986 B: 108.337
+Testing A: 74 12 B: 11 44 T: 4973 5380
+Token: 0
+
+New Block
+A: -205.803 B: 214.293
+Testing A: 12 39 B: 67 42 T: 11888 974
+Token: 0
+
+New Block
+A: -7.34109 B: 103.054
+Testing A: 25 60 B: 65 27 T: 6515 2342
+Token: 0
+
+New Block
+A: 230.257 B: 155.069
+Testing A: 74 26 B: 14 48 T: 19210 13430
+Token: 0
+
+New Block
+A: 26 B: 60
+Testing A: 50 69 B: 99 33 T: 7240 3774
+Token: 0
+
+New Block
+A: 243.226 B: -196.194
+Testing A: 45 67 B: 37 11 T: 3686 14138
+Token: 0
+
+New Block
+4565 ?= 4565 | 9431 ?= 9431
+A: 78 B: 47
+
+Token: 281
+
+New Block
+A: 43 B: 88
+Testing A: 18 57 B: 55 38 T: 5614 5795
+Token: 0
+
+New Block
+A: 116.186 B: 151.834
+Testing A: 77 50 B: 20 44 T: 11983 12490
+Token: 0
+
+New Block
+A: 228.528 B: 127.735
+Testing A: 41 13 B: 25 56 T: 12563 10124
+Token: 0
+
+New Block
+2604 ?= 2604 | 6970 ?= 6970
+A: 16 B: 83
+
+Token: 131
+
+New Block
+A: 90.1679 B: 255.98
+Testing A: 43 23 B: 11 43 T: 6693 13081
+Token: 0
+
+New Block
+A: 141.647 B: 198.811
+Testing A: 47 65 B: 34 11 T: 13417 11394
+Token: 0
+
+New Block
+A: 305.949 B: 6.41906
+Testing A: 20 56 B: 74 33 T: 6594 17345
+Token: 0
+
+New Block
+9707 ?= 9707 | 7015 ?= 7015
+A: 95 B: 78
+
+Token: 363
+
+New Block
+1339 ?= 1339 | 5568 ?= 5568
+A: 5 B: 68
+
+Token: 83
+
+New Block
+A: 62 B: 89
+Testing A: 84 55 B: 19 38 T: 6899 6792
+Token: 0
+
+New Block
+A: -70.6322 B: 292.236
+Testing A: 19 70 B: 72 18 T: 19699 316
+Token: 0
+
+New Block
+A: 29 B: 62
+Testing A: 97 61 B: 30 83 T: 4673 6915
+Token: 0
+
+New Block
+A: -137.982 B: 347.304
+Testing A: 50 26 B: 30 61 T: 3520 17598
+Token: 0
+
+New Block
+A: 166.096 B: -37.0569
+Testing A: 58 28 B: 28 65 T: 8596 2242
+Token: 0
+
+New Block
+A: 218.055 B: -81.1673
+Testing A: 61 28 B: 14 51 T: 12165 1966
+Token: 0
+
+New Block
+A: -118.43 B: 776.9
+Testing A: 23 53 B: 21 12 T: 13591 3046
+Token: 0
+
+New Block
+2084 ?= 2084 | 9230 ?= 9230
+A: 95 B: 13
+
+Token: 298
+
+New Block
+2171 ?= 2171 | 4675 ?= 4675
+A: 19 B: 72
+
+Token: 129
+
+New Block
+A: 80.1178 B: -79.3303
+Testing A: 76 50 B: 15 36 T: 4899 1150
+Token: 0
+
+New Block
+1064 ?= 1064 | 698 ?= 698
+A: 11 B: 8
+
+Token: 41
+
+New Block
+A: 257.915 B: 47.792
+Testing A: 12 74 B: 72 13 T: 6536 19707
+Token: 0
+
+New Block
+1567 ?= 1567 | 1406 ?= 1406
+A: 17 B: 14
+
+Token: 65
+
+New Block
+A: 218.89 B: 289.7
+Testing A: 11 40 B: 36 12 T: 12837 12232
+Token: 0
+
+New Block
+7014 ?= 7014 | 9094 ?= 9094
+A: 38 B: 88
+
+Token: 202
+
+New Block
+9013 ?= 9013 | 9733 ?= 9733
+A: 27 B: 94
+
+Token: 175
+
+New Block
+9180 ?= 9180 | 9559 ?= 9559
+A: 47 B: 85
+
+Token: 226
+
+New Block
+A: 46.3981 B: 5.32543
+Testing A: 29 61 B: 69 36 T: 1713 3022
+Token: 0
+
+New Block
+A: 136.658 B: 202.961
+Testing A: 57 13 B: 13 40 T: 10428 9895
+Token: 0
+
+New Block
+2297 ?= 2297 | 2205 ?= 2205
+A: 10 B: 23
+
+Token: 53
+
+New Block
+A: 139.699 B: 56.2521
+Testing A: 50 17 B: 12 52 T: 7660 5300
+Token: 0
+
+New Block
+A: 330.261 B: -100.913
+Testing A: 17 26 B: 41 14 T: 1477 7174
+Token: 0
+
+New Block
+A: 177.685 B: 116.082
+Testing A: 79 13 B: 11 50 T: 15314 8114
+Token: 0
+
+New Block
+A: 164.966 B: 67.8756
+Testing A: 12 55 B: 61 17 T: 6120 10227
+Token: 0
+
+New Block
+A: 87.9467 B: 161.333
+Testing A: 31 12 B: 38 74 T: 8857 12994
+Token: 0
+
+New Block
+A: 365.79 B: 176.619
+Testing A: 25 42 B: 44 11 T: 16916 17306
+Token: 0
+
+New Block
+A: 38 B: 50
+Testing A: 30 17 B: 12 81 T: 1740 4696
+Token: 0
+
+New Block
+A: 175.081 B: 166.362
+Testing A: 73 31 B: 14 40 T: 15110 12082
+Token: 0
+
+New Block
+A: 8 B: 61
+Testing A: 45 80 B: 98 29 T: 6338 2409
+Token: 0
+
+New Block
+A: 105.573 B: -41.1008
+Testing A: 52 25 B: 18 43 T: 4750 872
+Token: 0
+
+New Block
+5469 ?= 5469 | 5769 ?= 5769
+A: 57 B: 48
+
+Token: 219
+
+New Block
+3027 ?= 3027 | 2173 ?= 2173
+A: 37 B: 17
+
+Token: 128
+
+New Block
+A: 76.8192 B: 473.148
+Testing A: 43 20 B: 12 38 T: 8981 19516
+Token: 0
+
+New Block
+11600 ?= 11600 | 10528 ?= 10528
+A: 98 B: 86
+
+Token: 380
+
+New Block
+A: 37.9035 B: 176.388
+Testing A: 65 24 B: 11 42 T: 4404 8318
+Token: 0
+
+New Block
+A: 207.435 B: 243.994
+Testing A: 60 19 B: 18 42 T: 16838 14189
+Token: 0
+
+New Block
+A: 197.364 B: 122.845
+Testing A: 12 48 B: 80 29 T: 12196 13036
+Token: 0
+
+New Block
+A: 53 B: 44
+Testing A: 21 46 B: 77 38 T: 4501 4110
+Token: 0
+
+New Block
+A: 25.4171 B: 250.807
+Testing A: 24 64 B: 52 14 T: 13652 5138
+Token: 0
+
+New Block
+A: 51 B: 29
+Testing A: 85 33 B: 40 86 T: 5495 4177
+Token: 0
+
+New Block
+A: 347.244 B: -1.95389
+Testing A: 38 12 B: 16 45 T: 13164 4079
+Token: 0
+
+New Block
+A: 249.605 B: 214.084
+Testing A: 26 54 B: 51 16 T: 17408 16904
+Token: 0
+
+New Block
+A: 378.9 B: 16.5524
+Testing A: 49 17 B: 36 61 T: 19162 7451
+Token: 0
+
+New Block
+A: 59.7038 B: 248.609
+Testing A: 28 74 B: 53 13 T: 14848 7650
+Token: 0
+
+New Block
+5344 ?= 5344 | 9150 ?= 9150
+A: 59 B: 80
+
+Token: 257
+
+New Block
+A: 33 B: 83
+Testing A: 58 89 B: 89 17 T: 9301 4348
+Token: 0
+
+New Block
+A: 51.5787 B: -4.44411
+Testing A: 67 28 B: 22 59 T: 3358 1182
+Token: 0
+
+New Block
+A: 207.247 B: 144.845
+Testing A: 24 12 B: 19 58 T: 7726 10888
+Token: 0
+
+New Block
+A: 75 B: 7
+Testing A: 35 14 B: 24 95 T: 2793 1715
+Token: 0
+
+New Block
+A: -52.5619 B: 338.422
+Testing A: 28 51 B: 61 30 T: 19172 7472
+Token: 0
+
+New Block
+A: 28.7534 B: 12.863
+Testing A: 15 56 B: 46 16 T: 1023 1816
+Token: 0
+
+New Block
+3668 ?= 3668 | 5584 ?= 5584
+A: 52 B: 58
+
+Token: 214
+
+New Block
+A: 332.516 B: 82.1009
+Testing A: 21 54 B: 61 11 T: 11991 18859
+Token: 0
+
+New Block
+A: -136.553 B: 280.583
+Testing A: 14 55 B: 75 35 T: 19132 2310
+Token: 0
+
+New Block
+A: 157.557 B: -20.935
+Testing A: 41 17 B: 18 39 T: 6083 1862
+Token: 0
+
+New Block
+2145 ?= 2145 | 3046 ?= 3046
+A: 23 B: 27
+
+Token: 96
+
+New Block
+2888 ?= 2888 | 2756 ?= 2756
+A: 52 B: 30
+
+Token: 186
+
+New Block
+A: 84.4374 B: 151.202
+Testing A: 58 29 B: 13 51 T: 6863 10160
+Token: 0
+
+New Block
+A: 99 B: 55
+Testing A: 13 96 B: 29 15 T: 2882 10329
+Token: 0
+
+New Block
+A: 78 B: 19
+Testing A: 70 19 B: 52 73 T: 6448 2869
+Token: 0
+
+New Block
+A: 94 B: 99
+Testing A: 11 18 B: 83 21 T: 9251 3771
+Token: 0
+
+New Block
+A: 14 B: 99
+Testing A: 15 23 B: 79 21 T: 8031 2401
+Token: 0
+
+New Block
+11208 ?= 11208 | 6498 ?= 6498
+A: 78 B: 66
+
+Token: 300
+
+New Block
+4860 ?= 4860 | 6317 ?= 6317
+A: 59 B: 17
+
+Token: 194
+
+New Block
+A: 77 B: 55
+Testing A: 70 46 B: 46 95 T: 7920 8767
+Token: 0
+
+New Block
+8302 ?= 8302 | 7063 ?= 7063
+A: 40 B: 79
+
+Token: 199
+
+New Block
+A: -99.7537 B: 387.933
+Testing A: 21 35 B: 47 24 T: 16138 5819
+Token: 0
+
+New Block
+A: -40.4195 B: 312.732
+Testing A: 40 19 B: 12 56 T: 2136 16745
+Token: 0
+
+New Block
+7542 ?= 7542 | 5064 ?= 5064
+A: 41 B: 52
+
+Token: 175
+
+New Block
+A: -12.5378 B: 142.04
+Testing A: 67 17 B: 26 79 T: 2853 11008
+Token: 0
+
+New Block
+A: -2.19738 B: 118.567
+Testing A: 14 64 B: 49 17 T: 5779 1875
+Token: 0
+
+New Block
+5329 ?= 5329 | 2207 ?= 2207
+A: 77 B: 16
+
+Token: 247
+
+New Block
+A: 549.991 B: -228.689
+Testing A: 26 45 B: 49 27 T: 3094 18575
+Token: 0
+
+New Block
+7664 ?= 7664 | 7298 ?= 7298
+A: 42 B: 76
+
+Token: 202
+
+New Block
+6904 ?= 6904 | 4576 ?= 4576
+A: 64 B: 25
+
+Token: 217
+
+New Block
+4584 ?= 4584 | 2271 ?= 2271
+A: 43 B: 17
+
+Token: 146
+
+New Block
+2893 ?= 2893 | 3865 ?= 3865
+A: 57 B: 35
+
+Token: 206
+
+New Block
+4836 ?= 4836 | 5913 ?= 5913
+A: 7 B: 65
+
+Token: 86
+
+New Block
+A: 50.681 B: 164.816
+Testing A: 18 25 B: 34 11 T: 6516 3080
+Token: 0
+
+New Block
+A: 289.845 B: -203.299
+Testing A: 43 79 B: 48 16 T: 2705 19645
+Token: 0
+
+New Block
+A: -135.91 B: 483.178
+Testing A: 14 34 B: 38 11 T: 16458 694
+Token: 0
+
+New Block
+A: 82.8268 B: 58.3549
+Testing A: 11 65 B: 73 12 T: 5171 6084
+Token: 0
+
+New Block
+A: 51 B: 11
+Testing A: 35 96 B: 34 22 T: 2159 5138
+Token: 0
+
+New Block
+2060 ?= 2060 | 996 ?= 996
+A: 8 B: 20
+
+Token: 44
+
+New Block
+A: 34.5234 B: 163.731
+Testing A: 84 40 B: 11 48 T: 4701 9240
+Token: 0
+
+New Block
+A: 40 B: 7
+Testing A: 28 52 B: 76 12 T: 1652 2164
+Token: 0
+
+New Block
+2639 ?= 2639 | 3927 ?= 3927
+A: 14 B: 49
+
+Token: 91
+
+New Block
+A: 32.276 B: 246.25
+Testing A: 28 67 B: 69 26 T: 17895 8565
+Token: 0
+
+New Block
+A: 22.5863 B: 62.2062
+Testing A: 23 64 B: 51 12 T: 3692 2192
+Token: 0
+
+New Block
+A: 90 B: 14
+Testing A: 58 68 B: 98 21 T: 6592 6414
+Token: 0
+
+New Block
+A: 124.516 B: 202.355
+Testing A: 56 16 B: 20 50 T: 11020 12110
+Token: 0
+
+New Block
+2194 ?= 2194 | 4314 ?= 4314
+A: 7 B: 57
+
+Token: 78
+
+New Block
+A: 12 B: 16
+Testing A: 71 91 B: 85 16 T: 2212 1348
+Token: 0
+
+New Block
+10977 ?= 10977 | 6010 ?= 6010
+A: 49 B: 97
+
+Token: 244
+
+New Block
+A: 10 B: 7
+Testing A: 24 59 B: 77 26 T: 779 772
+Token: 0
+
+New Block
+12922 ?= 12922 | 6440 ?= 6440
+A: 82 B: 54
+
+Token: 300
+
+New Block
+A: 124.299 B: 540.312
+Testing A: 32 61 B: 27 12 T: 18566 14066
+Token: 0
+
+New Block
+A: -113.592 B: 637.939
+Testing A: 12 22 B: 31 16 T: 18413 7708
+Token: 0
+
+New Block
+A: 23.5012 B: 119.894
+Testing A: 17 83 B: 80 15 T: 9991 3749
+Token: 0
+
+New Block
+A: 52.413 B: 63.3996
+Testing A: 17 47 B: 55 29 T: 4378 4302
+Token: 0
+
+New Block
+2105 ?= 2105 | 1583 ?= 1583
+A: 9 B: 19
+
+Token: 46
+
+New Block
+3430 ?= 3430 | 3505 ?= 3505
+A: 5 B: 70
+
+Token: 85
+
+New Block
+4377 ?= 4377 | 9762 ?= 9762
+A: 63 B: 60
+
+Token: 249
+
+New Block
+4799 ?= 4799 | 3137 ?= 3137
+A: 29 B: 92
+
+Token: 179
+
+New Block
+A: 68.0321 B: 147.553
+Testing A: 15 44 B: 57 30 T: 9431 7420
+Token: 0
+
+New Block
+A: -25.1546 B: 194.845
+Testing A: 79 13 B: 18 84 T: 1520 16040
+Token: 0
+
+New Block
+A: -12.3447 B: 165.107
+Testing A: 61 23 B: 19 65 T: 2384 10448
+Token: 0
+
+New Block
+A: 100.026 B: -57.2822
+Testing A: 49 80 B: 40 11 T: 2610 7372
+Token: 0
+
+New Block
+A: 114.455 B: 89.228
+Testing A: 52 13 B: 19 53 T: 7647 6217
+Token: 0
+
+New Block
+A: 58.8475 B: 317.993
+Testing A: 65 11 B: 13 48 T: 7959 15911
+Token: 0
+
+New Block
+8062 ?= 8062 | 7468 ?= 7468
+A: 94 B: 92
+
+Token: 374
+
+New Block
+A: -31.4494 B: 194.605
+Testing A: 29 47 B: 48 25 T: 8429 3387
+Token: 0
+
+New Block
+A: 147.728 B: 259.593
+Testing A: 43 18 B: 13 42 T: 9727 13562
+Token: 0
+
+New Block
+A: 29 B: 56
+Testing A: 93 30 B: 42 93 T: 5049 6078
+Token: 0
+
+New Block
+3726 ?= 3726 | 4479 ?= 4479
+A: 47 B: 32
+
+Token: 173
+
+New Block
+A: 10 B: 5
+Testing A: 81 14 B: 86 84 T: 1240 560
+Token: 0
+
+New Block
+A: 67 B: 9
+Testing A: 85 42 B: 40 72 T: 6055 3462
+Token: 0
+
+New Block
+A: -117.308 B: 546.514
+Testing A: 77 49 B: 17 43 T: 258 17752
+Token: 0
+
+New Block
+A: 179.879 B: 192.76
+Testing A: 80 13 B: 18 81 T: 17860 17952
+Token: 0
+
+New Block
+A: 179.103 B: 118.41
+Testing A: 14 52 B: 55 26 T: 9020 12392
+Token: 0
+
+New Block
+A: -5.73684 B: 74.3158
+Testing A: 29 77 B: 55 15 T: 3921 673
+Token: 0
+
+New Block
+4950 ?= 4950 | 4248 ?= 4248
+A: 72 B: 54
+
+Token: 270
+
+New Block
+A: 671.382 B: -225.226
+Testing A: 31 17 B: 17 42 T: 16984 1954
+Token: 0
+
+New Block
+3857 ?= 3857 | 3986 ?= 3986
+A: 32 B: 55
+
+Token: 151
+
+New Block
+A: 68.809 B: 219.355
+Testing A: 52 16 B: 28 65 T: 9720 15359
+Token: 0
+
+New Block
+A: 6 B: 89
+Testing A: 23 99 B: 66 59 T: 6012 5845
+Token: 0
+
+New Block
+A: 69.0762 B: 117.397
+Testing A: 34 74 B: 59 11 T: 9275 6403
+Token: 0
+
+New Block
+5841 ?= 5841 | 5652 ?= 5652
+A: 56 B: 95
+
+Token: 263
+
+New Block
+4934 ?= 4934 | 10474 ?= 10474
+A: 37 B: 88
+
+Token: 199
+
+New Block
+9189 ?= 9189 | 4773 ?= 4773
+A: 87 B: 39
+
+Token: 300
+
+New Block
+8795 ?= 8795 | 5585 ?= 5585
+A: 55 B: 85
+
+Token: 250
+
+New Block
+6345 ?= 6345 | 8127 ?= 8127
+A: 54 B: 81
+
+Token: 243
+
+New Block
+776 ?= 776 | 904 ?= 904
+A: 8 B: 16
+
+Token: 40
+
+New Block
+A: 138.733 B: 198.922
+Testing A: 58 32 B: 19 44 T: 11826 13192
+Token: 0
+
+New Block
+A: 81 B: 9
+Testing A: 26 45 B: 57 11 T: 2619 3744
+Token: 0
+
+New Block
+A: 96 B: 62
+Testing A: 46 82 B: 72 17 T: 8880 8926
+Token: 0
+
+New Block
+A: 112.615 B: 573.769
+Testing A: 28 52 B: 27 13 T: 18645 13315
+Token: 0
+
+New Block
+A: 278.403 B: -161.57
+Testing A: 46 78 B: 50 20 T: 4728 18484
+Token: 0
+
+New Block
+3855 ?= 3855 | 3389 ?= 3389
+A: 41 B: 51
+
+Token: 174
+
+New Block
+8548 ?= 8548 | 6946 ?= 6946
+A: 32 B: 82
+
+Token: 178
+
+New Block
+A: 103.252 B: 362.51
+Testing A: 42 81 B: 42 11 T: 19562 12351
+Token: 0
+
+New Block
+A: 43.0347 B: 92.3698
+Testing A: 75 14 B: 20 69 T: 5075 6976
+Token: 0
+
+New Block
+A: 36.146 B: 353.219
+Testing A: 46 19 B: 15 33 T: 6961 12343
+Token: 0
+
+New Block
+A: 69 B: 37
+Testing A: 50 39 B: 21 83 T: 4227 5762
+Token: 0
+
+New Block
+3085 ?= 3085 | 5415 ?= 5415
+A: 65 B: 41
+
+Token: 236
+
+New Block
+10370 ?= 10370 | 6209 ?= 6209
+A: 94 B: 79
+
+Token: 361
+
+New Block
+A: 44 B: 68
+Testing A: 12 79 B: 98 40 T: 7192 6196
+Token: 0
+
+New Block
+A: 54.6418 B: 88.5672
+Testing A: 32 66 B: 59 17 T: 6974 5112
+Token: 0
+
+New Block
+A: 161.33 B: 88.7989
+Testing A: 19 68 B: 61 22 T: 8482 12924
+Token: 0
+
+New Block
+A: 11.4694 B: 192.311
+Testing A: 23 83 B: 65 13 T: 12764 3452
+Token: 0
+
+New Block
+1149 ?= 1149 | 2830 ?= 2830
+A: 23 B: 12
+
+Token: 81
+
+New Block
+A: 187.988 B: 313.204
+Testing A: 31 59 B: 41 23 T: 18669 18295
+Token: 0
+
+New Block
+A: 81.8031 B: 166.185
+Testing A: 25 76 B: 59 16 T: 11850 8876
+Token: 0
+
+New Block
+A: 78 B: 59
+Testing A: 59 26 B: 21 90 T: 5841 7338
+Token: 0
+
+New Block
+A: 155.863 B: 163.84
+Testing A: 23 74 B: 74 24 T: 15709 15466
+Token: 0
+
+New Block
+6680 ?= 6680 | 7068 ?= 7068
+A: 50 B: 62
+
+Token: 212
+
+New Block
+6234 ?= 6234 | 7775 ?= 7775
+A: 88 B: 37
+
+Token: 301
+
+New Block
+A: 368.498 B: -51.4158
+Testing A: 46 22 B: 31 60 T: 15357 5022
+Token: 0
+
+New Block
+2143 ?= 2143 | 807 ?= 807
+A: 9 B: 38
+
+Token: 65
+
+New Block
+1707 ?= 1707 | 5403 ?= 5403
+A: 6 B: 57
+
+Token: 75
+
+New Block
+A: -5.72929 B: 56.3687
+Testing A: 48 26 B: 19 46 T: 796 2444
+Token: 0
+
+New Block
+A: 29.0318 B: 200.04
+Testing A: 78 18 B: 13 61 T: 4865 12725
+Token: 0
+
+New Block
+A: 40 B: 54
+Testing A: 61 86 B: 92 23 T: 7408 4682
+Token: 0
+
+New Block
+A: 121.573 B: 130.61
+Testing A: 19 59 B: 69 20 T: 11322 9785
+Token: 0
+
+New Block
+A: 182.402 B: 360.819
+Testing A: 42 30 B: 16 39 T: 13434 19544
+Token: 0
+
+New Block
+1902 ?= 1902 | 2343 ?= 2343
+A: 6 B: 57
+
+Token: 75
+
+New Block
+A: 32 B: 92
+Testing A: 38 88 B: 80 58 T: 8576 8152
+Token: 0
+
+New Block
+1848 ?= 1848 | 1455 ?= 1455
+A: 24 B: 15
+
+Token: 87
+
+New Block
+1088 ?= 1088 | 2328 ?= 2328
+A: 24 B: 8
+
+Token: 80
+
+New Block
+A: -109.281 B: 211.426
+Testing A: 55 17 B: 41 77 T: 2658 14422
+Token: 0
+
+New Block
+A: 245.677 B: -24.2351
+Testing A: 66 17 B: 20 66 T: 15730 2577
+Token: 0
+
+New Block
+A: 386.314 B: 12.3725
+Testing A: 22 50 B: 62 25 T: 9266 19625
+Token: 0
+
+New Block
+1050 ?= 1050 | 1086 ?= 1086
+A: 6 B: 14
+
+Token: 32
+
+New Block
+A: 343.325 B: 91.0709
+Testing A: 44 17 B: 24 49 T: 17292 10299
+Token: 0
+
+New Block
+A: 84 B: 11
+Testing A: 82 45 B: 18 82 T: 7086 4682
+Token: 0
+
+New Block
+A: -47.9112 B: 306.542
+Testing A: 59 11 B: 18 48 T: 2691 14187
+Token: 0
+
+New Block
+1434 ?= 1434 | 2044 ?= 2044
+A: 62 B: 16
+
+Token: 202
+
+New Block
+A: 293.138 B: -32.2949
+Testing A: 55 17 B: 19 69 T: 15509 2755
+Token: 0
+
+New Block
+5163 ?= 5163 | 3666 ?= 3666
+A: 9 B: 74
+
+Token: 101
+
+New Block
+A: 57 B: 54
+Testing A: 37 98 B: 65 20 T: 5619 6666
+Token: 0
+
+New Block
+A: 63 B: 63
+Testing A: 93 48 B: 53 93 T: 9198 8883
+Token: 0
+
+New Block
+9409 ?= 9409 | 14620 ?= 14620
+A: 85 B: 91
+
+Token: 346
+
+New Block
+A: 87 B: 8
+Testing A: 30 92 B: 65 47 T: 3130 8380
+Token: 0
+
+New Block
+11583 ?= 11583 | 9009 ?= 9009
+A: 99 B: 99
+
+Token: 396
+
+New Block
+A: 257.141 B: 129.129
+Testing A: 12 67 B: 49 12 T: 9413 18778
+Token: 0
+
+New Block
+A: 4.45307 B: 401.142
+Testing A: 30 76 B: 45 11 T: 18185 4751
+Token: 0
+
+New Block
+2032 ?= 2032 | 2612 ?= 2612
+A: 12 B: 44
+
+Token: 80
+
+New Block
+A: 166.891 B: -67.9897
+Testing A: 66 23 B: 21 50 T: 9587 439
+Token: 0
+
+New Block
+A: 38 B: 5
+Testing A: 84 30 B: 19 41 T: 3287 1345
+Token: 0
+
+New Block
+A: 194.202 B: 242.202
+Testing A: 40 72 B: 49 17 T: 19636 18100
+Token: 0
+
+New Block
+6502 ?= 6502 | 2968 ?= 2968
+A: 20 B: 94
+
+Token: 154
+
+New Block
+A: 219.114 B: 75.0616
+Testing A: 18 49 B: 64 39 T: 8748 13664
+Token: 0
+
+New Block
+A: 6 B: 28
+Testing A: 28 26 B: 85 18 T: 2548 660
+Token: 0
+
+New Block
+4669 ?= 4669 | 4731 ?= 4731
+A: 37 B: 89
+
+Token: 200
+
+New Block
+A: 30.8908 B: 267.139
+Testing A: 11 57 B: 59 16 T: 16101 6035
+Token: 0
+
+New Block
+4596 ?= 4596 | 3767 ?= 3767
+A: 83 B: 34
+
+Token: 283
+
+New Block
+A: 50.9121 B: 313.811
+Testing A: 41 23 B: 18 37 T: 7736 12782
+Token: 0
+
+New Block
+A: 236.042 B: -12.7849
+Testing A: 39 16 B: 25 62 T: 8886 2984
+Token: 0
+
+New Block
+A: 50 B: 23
+Testing A: 90 74 B: 15 50 T: 4845 4850
+Token: 0
+
+New Block
+A: 16 B: 75
+Testing A: 51 32 B: 26 90 T: 2766 7262
+Token: 0
+
+New Block
+A: 421.175 B: 7.57594
+Testing A: 11 45 B: 80 28 T: 5239 19165
+Token: 0
+
+New Block
+1923 ?= 1923 | 6135 ?= 6135
+A: 33 B: 93
+
+Token: 192
+
+New Block
+2002 ?= 2002 | 4341 ?= 4341
+A: 11 B: 49
+
+Token: 82
+
+New Block
+9891 ?= 9891 | 7483 ?= 7483
+A: 87 B: 44
+
+Token: 305
+
+New Block
+A: 16 B: 72
+Testing A: 99 47 B: 38 98 T: 4320 7808
+Token: 0
+
+New Block
+A: 411.596 B: -121.917
+Testing A: 14 34 B: 44 33 T: 398 9971
+Token: 0
+
+New Block
+A: 179.016 B: -26.2118
+Testing A: 12 74 B: 67 15 T: 392 12854
+Token: 0
+
+New Block
+A: 328.149 B: 260.579
+Testing A: 17 34 B: 44 12 T: 17044 14284
+Token: 0
+
+New Block
+A: -122.814 B: 321.216
+Testing A: 59 18 B: 28 68 T: 1748 19632
+Token: 0
+
+New Block
+8712 ?= 8712 | 9194 ?= 9194
+A: 39 B: 79
+
+Token: 196
+
+New Block
+A: 241.492 B: 243.492
+Testing A: 49 16 B: 12 45 T: 14755 14821
+Token: 0
+
+New Block
+8420 ?= 8420 | 7024 ?= 7024
+A: 92 B: 62
+
+Token: 338
+
+New Block
+A: 7.15837 B: 161.299
+Testing A: 52 12 B: 26 74 T: 4566 12022
+Token: 0
+
+New Block
+A: 113.609 B: 285.087
+Testing A: 32 52 B: 52 27 T: 18460 13605
+Token: 0
+
+New Block
+4671 ?= 4671 | 5922 ?= 5922
+A: 18 B: 81
+
+Token: 135
+
+New Block
+A: 228.242 B: 271.08
+Testing A: 54 35 B: 12 32 T: 15578 16663
+Token: 0
+
+New Block
+A: 7 B: 22
+Testing A: 55 86 B: 29 14 T: 1023 910
+Token: 0
+
+New Block
+A: 2.6414 B: 144.813
+Testing A: 16 56 B: 55 21 T: 8007 3189
+Token: 0
+
+New Block
+A: 194.181 B: -34.907
+Testing A: 18 55 B: 51 22 T: 1715 9912
+Token: 0
+
+New Block
+2058 ?= 2058 | 1794 ?= 1794
+A: 36 B: 34
+
+Token: 142
+
+New Block
+10286 ?= 10286 | 5505 ?= 5505
+A: 81 B: 55
+
+Token: 298
+
+New Block
+A: 641.563 B: -234.986
+Testing A: 28 17 B: 16 30 T: 14204 3857
+Token: 0
+
+New Block
+A: 23 B: 62
+Testing A: 55 24 B: 21 54 T: 2567 3900
+Token: 0
+
+New Block
+A: 227.847 B: 199.821
+Testing A: 16 62 B: 31 14 T: 9840 16924
+Token: 0
+
+New Block
+A: 91.0775 B: 153.558
+Testing A: 54 33 B: 14 42 T: 7068 9455
+Token: 0
+
+New Block
+6230 ?= 6230 | 4212 ?= 4212
+A: 62 B: 76
+
+Token: 262
+
+New Block
+A: 500.105 B: -57.7978
+Testing A: 30 12 B: 24 63 T: 13616 2360
+Token: 0
+
+New Block
+A: 424.543 B: -35.4568
+Testing A: 12 46 B: 69 35 T: 2648 18288
+Token: 0
+
+New Block
+8434 ?= 8434 | 6705 ?= 6705
+A: 56 B: 69
+
+Token: 237
+
+New Block
+A: 98 B: 41
+Testing A: 84 12 B: 22 27 T: 9134 2283
+Token: 0
+
+New Block
+A: 195.039 B: 203.879
+Testing A: 17 37 B: 47 12 T: 12898 9663
+Token: 0
+
+New Block
+A: 198.828 B: 53.2414
+Testing A: 23 66 B: 33 14 T: 6330 13868
+Token: 0
+
+New Block
+A: 202.572 B: 21.8229
+Testing A: 20 44 B: 59 18 T: 5339 9306
+Token: 0
+
+New Block
+6690 ?= 6690 | 6441 ?= 6441
+A: 64 B: 39
+
+Token: 231
+
+New Block
+8811 ?= 8811 | 2761 ?= 2761
+A: 91 B: 10
+
+Token: 283
+
+New Block
+Answer 20263

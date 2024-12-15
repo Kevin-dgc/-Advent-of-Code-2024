@@ -7,6 +7,9 @@
         "array": "cpp",
         "bitset": "cpp",
         "initializer_list": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "cmath": "cpp"
     }
 }
