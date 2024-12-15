@@ -243,8 +243,6 @@ bool canMove2(vector<vector<char>>& grid, int x, int y, char move){
     return false;
 }
 
-
-
 int adv(vector<vector<char>>& grid, vector<char> moves){
     // find @
     int x = 0, y = 0;
@@ -367,10 +365,6 @@ int adv2(vector<vector<char>>& grid, vector<char> moves){
 
     return sum;
 }
-
-
-
-
 
 pair<vector<vector<char>>, vector<char>> parse(const string& filename) {
     ifstream file(filename);
