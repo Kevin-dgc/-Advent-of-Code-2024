@@ -8,6 +8,11 @@
         "bitset": "cpp",
         "initializer_list": "cpp",
         "utility": "cpp",
-        "stdexcept": "cpp"
+        "stdexcept": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp"
     }
 }

@@ -373,32 +373,27 @@ pair<vector<vector<char>>, vector<char>> parse(const string& filename) {
     }
 
     vector<vector<char>> grid;
-    vector<char> sequence;
+    vector<char> list;
     string line;
-    bool readingSequence = false;
+    bool flip = false;
 
     while (getline(file, line)) {
-        // Skip empty lines
-        if (line.empty()) continue;
-
-        // Check if it's time to switch to reading the sequence
-        if (!readingSequence && (line[0] == '<' || line[0] == '>' || line[0] == '^' || line[0] == 'v')) {
-            readingSequence = true;
+        if (line.empty()){
+            continue;
         }
 
-        if (readingSequence) {
-            // Add characters from this line to the sequence
-            sequence.insert(sequence.end(), line.begin(), line.end());
+        if (!flip && (line[0] == '<' || line[0] == '>' || line[0] == '^' || line[0] == 'v')) {
+            flip = true;
+        }
+
+        if (flip) {
+            list.insert(list.end(), line.begin(), line.end());
         } else {
-            // Add the grid line as a vector of characters
             grid.push_back(vector<char>(line.begin(), line.end()));
         }
     }
-
     file.close();
-
-    // Return the parsed grid and sequence as a pair
-    return make_pair(grid, sequence);
+    return make_pair(grid, list);
 }
 
 int main(){
