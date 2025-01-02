@@ -7,8 +7,6 @@
         "array": "cpp",
         "bitset": "cpp",
         "initializer_list": "cpp",
-        "utility": "cpp",
-        "algorithm": "cpp",
-        "tuple": "cpp"
+        "utility": "cpp"
     }
 }
